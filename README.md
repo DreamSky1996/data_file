@@ -41,3 +41,7 @@
 [Shop-Laravel-bootstrap-framwork.rar](https://drive.google.com/file/d/1SnFZWZegofsAKkE0YSBioOmzAm7YzioI/view?usp=sharing)
 
 [rose.zip](https://drive.google.com/file/d/1T8I0BVf80Kxo8A5OkKJvouKmgoct3Ac1/view?usp=sharing)
+
+[my_data](https://drive.google.com/file/d/1l_4ZHIRFeef3Nk0tUqUu3lZQCni4Pfeu/view?usp=sharing)
+
+[trading_prediction](https://drive.google.com/file/d/1mrnSDX15Zlt7qAMHGOvFLx1_4dR_JF0R/view?usp=sharing)
